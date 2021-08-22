@@ -1,4 +1,4 @@
-### Olá! Sou João Marcos Pimenta Martins
+### Hi! I'm João Marcos Pimenta Martins
 
 - 🌱 Learn now: C++ and JavaScript
 - 😄 Pronouns: He/His
