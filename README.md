@@ -1,7 +1,7 @@
 ### Olá! Sou João Marcos Pimenta Martins
 
-- 🌱 Estudando C++
-- 😄 Pronomes: Ele/Dele
+- 🌱 Learn now: C++ and JavaScript
+- 😄 Pronouns: He/His
 <div>
   <a href="https://github.com/joaomarcos-exe">
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=joaomarcos-exe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
