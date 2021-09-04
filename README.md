@@ -7,6 +7,7 @@
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=joaomarcos-exe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomarcos-exe&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+Languages and Tools
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Joao-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
